@@ -86,3 +86,22 @@ aside {
   width: 100%;
   margin: 20px auto;
 }
+
+@media (min-width: 924px) {
+  .container1 {
+    width: 80%;
+  }
+
+  main {
+    width: 70%;
+    background-color: thistle;
+  }
+
+  .single_column {
+    display: flex;
+  }
+
+  .single_column img {
+    width: 50%;
+  }
+}
