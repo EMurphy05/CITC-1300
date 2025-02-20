@@ -59,7 +59,7 @@ body {
         padding: 5px;
         border-radius: 40px;
         color: white;
-        font-family: comic sans ms;
+        font-family: "comic sans ms";
     }
 
     nav ul li a:hover, main a:hover, .block a:hover {
